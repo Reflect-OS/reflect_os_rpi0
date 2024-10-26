@@ -12,3 +12,4 @@ This is the base ReflectOS Nerves System configuration for the Raspberry Pi Zero
 This system is derived from the base [Nerves Raspberry Pi Zero system](https://github.com/nerves-project/nerves_system_rpi0).
 
 [Image credit](#fritzing): This image is from the [Fritzing](http://fritzing.org/home/) parts library.
+
